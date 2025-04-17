@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#FCE4EC">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="💼 Earn with Your Club"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#AD1457"
+        android:gravity="center"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Check out ways to earn rewards and incentives by participating in club activities."
+        android:textSize="16sp"
+        android:textColor="#444"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Earn Money content -->
+
+</LinearLayout>
