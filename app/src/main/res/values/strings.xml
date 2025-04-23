@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Club Noticeboard App</string>
+    <string name="app_name">GU Club Central</string>
+    <string name="logo_desc">Galgotias Logo</string>
+    <string name="welcome_text">Welcome to GU Club Central</string>
+    <string name="join_clubs_button">🎯 Join Clubs</string>
+    <string name="events_label">Events</string>
+    <string name="active_event">🔥 Active Event</string>
+    <string name="holi_event_title">🌈 Holi Fest 2026</string>
+    <string name="organizer_text">Organizer: Rajiv Mishra</string>
+    <string name="event_date">Date: 12 March, 2026</string>
+    <string name="know_more">Know More</string>
+
+
+<string name="splash_text">Welcome to GU Clubs!</string>
 </resources>

@@ -8,7 +8,7 @@
         android:label="GU Club App"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"> <!-- ✅ This line added -->
+        android:theme="@style/AppTheme">
 
         <!-- Main Activity -->
         <activity android:name=".MainActivity"
@@ -26,7 +26,6 @@
         <activity android:name=".NoticeActivity" />
         <activity android:name=".WalletActivity" />
         <activity android:name=".EarnMoneyActivity" />
-
     </application>
 
 </manifest>
